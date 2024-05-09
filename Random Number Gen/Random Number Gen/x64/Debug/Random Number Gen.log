@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\carte\OneDrive\Cplusplus\Random Number Gen\Random Number Gen\main.cpp(11,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Random Number Gen.vcxproj -> C:\Users\carte\OneDrive\Cplusplus\Random Number Gen\x64\Debug\Random Number Gen.exe
