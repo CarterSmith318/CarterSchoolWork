@@ -1,0 +1,5 @@
+﻿  statistics.hpp
+C:\Users\carte\OneDrive\Cplusplus\2323232323\2323232323\statistics.hpp(17,20): error C3861: 'pow': identifier not found
+C:\Users\carte\OneDrive\Cplusplus\2323232323\2323232323\statistics.hpp(20,25): error C3861: 'sqrt': identifier not found
+  main.cpp
+  Generating Code...
